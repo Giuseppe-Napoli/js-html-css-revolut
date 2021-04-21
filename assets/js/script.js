@@ -11,8 +11,8 @@ $(function(){
     $(this).find('.td-menu').removeClass('active')
   })
   /* all'uscita del mouse sul 'menu a tendina' si rimuoverà la classe active al 'td-menu' */
-  $('.menu-tendina').mouseleave(function(){
+/*   $('.menu-tendina').mouseleave(function(){
     $(this).find('.td-menu').removeClass('active')
-  })
+  }) */
 
 });

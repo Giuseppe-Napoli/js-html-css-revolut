@@ -132,3 +132,20 @@ header .header-right button:hover{
   font-weight: 600;
   color: #CED5DB;
 }
+
+.menu-tendina .cooming{
+  position: relative;
+}
+
+.menu-tendina .soon{
+  position: absolute;
+  bottom: 15px;
+  right: -15px;
+  font-size: 8px;
+  text-transform: uppercase;
+  color: blue;
+}
+
+.menu-tendina .soon.last{
+  right: 55px;
+}
